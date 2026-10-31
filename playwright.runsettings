@@ -6,4 +6,7 @@
       <Channel>msedge</Channel>
     </LaunchOptions>
   </Playwright>
+  <NUnit>
+    <!-- <NumberOfTestWorkers>4</NumberOfTestWorkers> -->
+  </NUnit>
 </RunSettings>

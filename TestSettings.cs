@@ -4,6 +4,7 @@ public static class TestSettings
 {
     public const string SauceAppUrl = "https://www.saucedemo.com";    
     public const string HerokuAppUrl = "https://the-internet.herokuapp.com";
+    public const string HerokuApiUrl = "https://restful-booker.herokuapp.com";
     public const string StandardUser = "standard_user";
     public const string Password = "secret_sauce";
 
